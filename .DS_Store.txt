@@ -1,0 +1,7 @@
+# Ignorar archivos de proyecto de vscode
+ *.csproj
+ *.sln
+ DS_Store
+# Ignorarcarpetas de compilación 
+bin/
+obj/
