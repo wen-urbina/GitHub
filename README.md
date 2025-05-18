@@ -1,19 +1,32 @@
 ### Hi, i'm Gwen Urbina![GitHub](https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?fit=1600%2C840 "GitHub")
 <p>
-utilización de comandos GitHub;
+utilización de GitHub;
 </p>>
 
 - git config --global user.name "Wen"
 - git config --global user.email "wenucha52gmail.com"
 <p>
-Registro de usuario GitHub
-</p>>
+# ColectDictionary
 
-- git init
-- git status
-- git add .
-- git commit
-- git push
+## 📌 ¿Qué hace el proyecto?
+
+ColectDictionary es una aplicación desarrollada en C# que permite gestionar, organizar y buscar definiciones o términos personalizados de forma rápida y estructurada. Puede servir como base para diccionarios técnicos, glosarios educativos o bases de datos de conocimiento personalizadas.
+
+---
+
+## 💡 ¿Por qué el proyecto es útil?
+
+- Permite tener un repositorio centralizado de términos clave.
+- Es útil para estudiantes, docentes, investigadores o desarrolladores que necesitan consultar conceptos frecuentemente.
+- Puedes adaptarlo a cualquier temática: medicina, tecnología, educación, etc.
+
+---
+
+##¿Cómo pueden comenzar los usuarios con el proyecto?
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/ColectDictionary.git
 
 ####Codigos de programación de cantidades de la población
 
