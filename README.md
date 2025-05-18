@@ -14,7 +14,7 @@ ColectDictionary es una aplicación desarrollada en C# que permite gestionar, or
 
 ---
 
-## 💡 ¿Por qué el proyecto es útil?
+##  ¿Por qué el proyecto es útil?
 
 - Permite tener un repositorio centralizado de términos clave.
 - Es útil para estudiantes, docentes, investigadores o desarrolladores que necesitan consultar conceptos frecuentemente.
